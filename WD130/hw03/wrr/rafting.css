@@ -41,9 +41,30 @@ nav, p, section, article {
     width: 125px;
 }
 
+.hero h1{
+    top: 20px;
+    width: 100%;
+    padding: 16px;
+    text-align: center;
+    opacity: 0.7;
+    background-color: rgb(127, 127, 203);
+    color: white;
+}
+
+#articulo {
+    margin: 5%;
+    background-color: rgb(236, 146, 223);
+    height: 120px;
+
+}
+
+#articulo img{
+    height: 90px;
+}
 #options {
     text-align: left;
 }
+
 
 .logoDiv {
     width: 100%;
@@ -53,3 +74,7 @@ nav, p, section, article {
     background-repeat: no-repeat;
     background-size: contain;
 }
+.socialmedia{
+    height: 50px;
+}
+
